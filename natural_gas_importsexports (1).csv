@@ -1,0 +1,1201 @@
+,period,duoarea,area-name,product,product-name,process,process-name,series,series-description,value,units
+0,2000-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.87,$/MCF
+1,2000-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.27,$/MCF
+2,2000-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),296046,MMCF
+3,2000-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),16249,MMCF
+4,2000-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),19810,MMCF
+5,2000-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),287793,MMCF
+6,2000-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.05,$/MCF
+7,2000-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.52,$/MCF
+8,2000-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),17015,MMCF
+9,2000-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.86,$/MCF
+10,2000-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),294016,MMCF
+11,2000-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.37,$/MCF
+12,2000-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),306596,MMCF
+13,2000-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.61,$/MCF
+14,2000-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3,$/MCF
+15,2000-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),20505,MMCF
+16,2000-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.05,$/MCF
+17,2000-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.6,$/MCF
+18,2000-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),21015,MMCF
+19,2000-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),300107,MMCF
+20,2000-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),325897,MMCF
+21,2000-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),17776,MMCF
+22,2000-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.95,$/MCF
+23,2000-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.44,$/MCF
+24,2000-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),7.35,$/MCF
+25,2000-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),22621,MMCF
+26,2000-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.65,$/MCF
+27,2000-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),371425,MMCF
+28,2000-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.86,$/MCF
+29,2000-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),329759,MMCF
+30,2000-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.39,$/MCF
+31,2000-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),24767,MMCF
+32,2000-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),324527,MMCF
+33,2000-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),23070,MMCF
+34,2000-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.16,$/MCF
+35,2000-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.04,$/MCF
+36,2000-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),304843,MMCF
+37,2000-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.15,$/MCF
+38,2000-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.81,$/MCF
+39,2000-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),20568,MMCF
+40,2000-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),20775,MMCF
+41,2000-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.62,$/MCF
+42,2000-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),318308,MMCF
+43,2000-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.13,$/MCF
+44,2000-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.94,$/MCF
+45,2000-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),19546,MMCF
+46,2000-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.45,$/MCF
+47,2000-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),322285,MMCF
+48,2001-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),317414,MMCF
+49,2001-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.64,$/MCF
+50,2001-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),24554,MMCF
+51,2001-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.94,$/MCF
+52,2001-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),321878,MMCF
+53,2001-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.95,$/MCF
+54,2001-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),28981,MMCF
+55,2001-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.5,$/MCF
+56,2001-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),23637,MMCF
+57,2001-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.65,$/MCF
+58,2001-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.35,$/MCF
+59,2001-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),318573,MMCF
+60,2001-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.93,$/MCF
+61,2001-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),358103,MMCF
+62,2001-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),32121,MMCF
+63,2001-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.42,$/MCF
+64,2001-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),328289,MMCF
+65,2001-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.8,$/MCF
+66,2001-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.45,$/MCF
+67,2001-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),26882,MMCF
+68,2001-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),7.48,$/MCF
+69,2001-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),9.47,$/MCF
+70,2001-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),373077,MMCF
+71,2001-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),25547,MMCF
+72,2001-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),41564,MMCF
+73,2001-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.68,$/MCF
+74,2001-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.76,$/MCF
+75,2001-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),309673,MMCF
+76,2001-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),41840,MMCF
+77,2001-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.95,$/MCF
+78,2001-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.21,$/MCF
+79,2001-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),291044,MMCF
+80,2001-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),34452,MMCF
+81,2001-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),326114,MMCF
+82,2001-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.74,$/MCF
+83,2001-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.14,$/MCF
+84,2001-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.63,$/MCF
+85,2001-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.79,$/MCF
+86,2001-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),33517,MMCF
+87,2001-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),314864,MMCF
+88,2001-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),353338,MMCF
+89,2001-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.14,$/MCF
+90,2001-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.48,$/MCF
+91,2001-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),28965,MMCF
+92,2001-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),31219,MMCF
+93,2001-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.62,$/MCF
+94,2001-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.17,$/MCF
+95,2001-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),364571,MMCF
+96,2002-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.08,$/MCF
+97,2002-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),318002,MMCF
+98,2002-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),44939,MMCF
+99,2002-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.27,$/MCF
+100,2002-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.32,$/MCF
+101,2002-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),319404,MMCF
+102,2002-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.25,$/MCF
+103,2002-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),39459,MMCF
+104,2002-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.51,$/MCF
+105,2002-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),39194,MMCF
+106,2002-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.27,$/MCF
+107,2002-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),315116,MMCF
+108,2002-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.75,$/MCF
+109,2002-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),332596,MMCF
+110,2002-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.61,$/MCF
+111,2002-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),38141,MMCF
+112,2002-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.42,$/MCF
+113,2002-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),305917,MMCF
+114,2002-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.32,$/MCF
+115,2002-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),30383,MMCF
+116,2002-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.9,$/MCF
+117,2002-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.73,$/MCF
+118,2002-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),343481,MMCF
+119,2002-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),34491,MMCF
+120,2002-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.3,$/MCF
+121,2002-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),54821,MMCF
+122,2002-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),370729,MMCF
+123,2002-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.2,$/MCF
+124,2002-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),54589,MMCF
+125,2002-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.04,$/MCF
+126,2002-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.21,$/MCF
+127,2002-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),330544,MMCF
+128,2002-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.56,$/MCF
+129,2002-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),42109,MMCF
+130,2002-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.72,$/MCF
+131,2002-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),343427,MMCF
+132,2002-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),335594,MMCF
+133,2002-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.06,$/MCF
+134,2002-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.37,$/MCF
+135,2002-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),46563,MMCF
+136,2002-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),356013,MMCF
+137,2002-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.99,$/MCF
+138,2002-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.7,$/MCF
+139,2002-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),46511,MMCF
+140,2002-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),45032,MMCF
+141,2002-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),344641,MMCF
+142,2002-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.31,$/MCF
+143,2002-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.84,$/MCF
+144,2003-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),51924,MMCF
+145,2003-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.53,$/MCF
+146,2003-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.94,$/MCF
+147,2003-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),306878,MMCF
+148,2003-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),48519,MMCF
+149,2003-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.51,$/MCF
+150,2003-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.04,$/MCF
+151,2003-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),325157,MMCF
+152,2003-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5,$/MCF
+153,2003-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),314655,MMCF
+154,2003-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.22,$/MCF
+155,2003-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),48831,MMCF
+156,2003-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),324364,MMCF
+157,2003-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),51851,MMCF
+158,2003-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),7.61,$/MCF
+159,2003-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),8.47,$/MCF
+160,2003-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.71,$/MCF
+161,2003-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),308804,MMCF
+162,2003-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),56393,MMCF
+163,2003-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.46,$/MCF
+164,2003-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.61,$/MCF
+165,2003-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),58449,MMCF
+166,2003-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),359168,MMCF
+167,2003-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.89,$/MCF
+168,2003-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.32,$/MCF
+169,2003-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.08,$/MCF
+170,2003-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),364161,MMCF
+171,2003-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),76769,MMCF
+172,2003-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.51,$/MCF
+173,2003-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.67,$/MCF
+174,2003-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),316721,MMCF
+175,2003-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),71867,MMCF
+176,2003-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),62314,MMCF
+177,2003-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),331005,MMCF
+178,2003-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.48,$/MCF
+179,2003-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.63,$/MCF
+180,2003-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.95,$/MCF
+181,2003-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.67,$/MCF
+182,2003-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),320676,MMCF
+183,2003-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),53337,MMCF
+184,2003-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),331628,MMCF
+185,2003-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.54,$/MCF
+186,2003-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),50962,MMCF
+187,2003-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.9,$/MCF
+188,2003-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),340532,MMCF
+189,2003-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.31,$/MCF
+190,2003-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.11,$/MCF
+191,2003-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),48707,MMCF
+192,2004-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.48,$/MCF
+193,2004-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),64227,MMCF
+194,2004-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.06,$/MCF
+195,2004-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),341934,MMCF
+196,2004-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),326541,MMCF
+197,2004-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),60968,MMCF
+198,2004-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.12,$/MCF
+199,2004-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.63,$/MCF
+200,2004-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.21,$/MCF
+201,2004-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),61916,MMCF
+202,2004-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),325105,MMCF
+203,2004-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.57,$/MCF
+204,2004-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.15,$/MCF
+205,2004-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),90982,MMCF
+206,2004-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),348992,MMCF
+207,2004-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.35,$/MCF
+208,2004-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),69805,MMCF
+209,2004-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.71,$/MCF
+210,2004-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),345930,MMCF
+211,2004-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.67,$/MCF
+212,2004-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.98,$/MCF
+213,2004-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),373195,MMCF
+214,2004-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.02,$/MCF
+215,2004-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),67024,MMCF
+216,2004-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.96,$/MCF
+217,2004-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),413128,MMCF
+218,2004-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),82649,MMCF
+219,2004-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),7.22,$/MCF
+220,2004-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),368685,MMCF
+221,2004-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),86431,MMCF
+222,2004-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.98,$/MCF
+223,2004-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),7.17,$/MCF
+224,2004-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.38,$/MCF
+225,2004-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),335533,MMCF
+226,2004-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),61174,MMCF
+227,2004-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.77,$/MCF
+228,2004-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),74439,MMCF
+229,2004-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.96,$/MCF
+230,2004-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.47,$/MCF
+231,2004-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),344621,MMCF
+232,2004-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.62,$/MCF
+233,2004-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),67491,MMCF
+234,2004-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.86,$/MCF
+235,2004-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),360244,MMCF
+236,2004-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),374651,MMCF
+237,2004-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.75,$/MCF
+238,2004-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),67031,MMCF
+239,2004-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.09,$/MCF
+240,2005-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.35,$/MCF
+241,2005-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.6,$/MCF
+242,2005-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),321710,MMCF
+243,2005-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),54807,MMCF
+244,2005-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),333997,MMCF
+245,2005-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.75,$/MCF
+246,2005-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),58944,MMCF
+247,2005-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.58,$/MCF
+248,2005-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),55538,MMCF
+249,2005-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),7.06,$/MCF
+250,2005-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.92,$/MCF
+251,2005-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),326147,MMCF
+252,2005-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),379650,MMCF
+253,2005-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.24,$/MCF
+254,2005-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.59,$/MCF
+255,2005-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),96220,MMCF
+256,2005-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),356495,MMCF
+257,2005-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.14,$/MCF
+258,2005-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.21,$/MCF
+259,2005-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),89576,MMCF
+260,2005-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),405016,MMCF
+261,2005-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.2,$/MCF
+262,2005-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),91395,MMCF
+263,2005-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.3,$/MCF
+264,2005-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),45272,MMCF
+265,2005-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),10.59,$/MCF
+266,2005-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),408522,MMCF
+267,2005-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),10.91,$/MCF
+268,2005-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),11.31,$/MCF
+269,2005-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),10.34,$/MCF
+270,2005-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),44964,MMCF
+271,2005-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),359387,MMCF
+272,2005-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),11.99,$/MCF
+273,2005-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),11.06,$/MCF
+274,2005-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),366305,MMCF
+275,2005-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),41025,MMCF
+276,2005-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),345907,MMCF
+277,2005-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),9.71,$/MCF
+278,2005-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),43824,MMCF
+279,2005-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),9.96,$/MCF
+280,2005-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),51987,MMCF
+281,2005-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),7.5,$/MCF
+282,2005-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),7.93,$/MCF
+283,2005-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),351805,MMCF
+284,2005-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),55048,MMCF
+285,2005-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.82,$/MCF
+286,2005-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),7.09,$/MCF
+287,2005-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),386093,MMCF
+288,2006-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),65708,MMCF
+289,2006-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.83,$/MCF
+290,2006-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),348095,MMCF
+291,2006-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6,$/MCF
+292,2006-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.5,$/MCF
+293,2006-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),350535,MMCF
+294,2006-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),62557,MMCF
+295,2006-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.53,$/MCF
+296,2006-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.73,$/MCF
+297,2006-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),332248,MMCF
+298,2006-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),45181,MMCF
+299,2006-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.72,$/MCF
+300,2006-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),348293,MMCF
+301,2006-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.79,$/MCF
+302,2006-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),69434,MMCF
+303,2006-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),7,$/MCF
+304,2006-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),7.96,$/MCF
+305,2006-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),58766,MMCF
+306,2006-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),321045,MMCF
+307,2006-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),7.71,$/MCF
+308,2006-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),360316,MMCF
+309,2006-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),9.52,$/MCF
+310,2006-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),55600,MMCF
+311,2006-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),10.11,$/MCF
+312,2006-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),7.57,$/MCF
+313,2006-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),7.6,$/MCF
+314,2006-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),383205,MMCF
+315,2006-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),71923,MMCF
+316,2006-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),339118,MMCF
+317,2006-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),7.24,$/MCF
+318,2006-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),69688,MMCF
+319,2006-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),7.21,$/MCF
+320,2006-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.88,$/MCF
+321,2006-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),334016,MMCF
+322,2006-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),58904,MMCF
+323,2006-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.06,$/MCF
+324,2006-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),333514,MMCF
+325,2006-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.83,$/MCF
+326,2006-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.9,$/MCF
+327,2006-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),52583,MMCF
+328,2006-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),54739,MMCF
+329,2006-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.98,$/MCF
+330,2006-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.74,$/MCF
+331,2006-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),364972,MMCF
+332,2006-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),58874,MMCF
+333,2006-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),370925,MMCF
+334,2006-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.95,$/MCF
+335,2006-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.02,$/MCF
+336,2007-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),381470,MMCF
+337,2007-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),7.32,$/MCF
+338,2007-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),57309,MMCF
+339,2007-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),7.31,$/MCF
+340,2007-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),62477,MMCF
+341,2007-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),7.47,$/MCF
+342,2007-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),380213,MMCF
+343,2007-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),7.45,$/MCF
+344,2007-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),386837,MMCF
+345,2007-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),7.24,$/MCF
+346,2007-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),7.41,$/MCF
+347,2007-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),50736,MMCF
+348,2007-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),7.45,$/MCF
+349,2007-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),7.33,$/MCF
+350,2007-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),77036,MMCF
+351,2007-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),401779,MMCF
+352,2007-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),372874,MMCF
+353,2007-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),7.39,$/MCF
+354,2007-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),7.35,$/MCF
+355,2007-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),56539,MMCF
+356,2007-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),393140,MMCF
+357,2007-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.58,$/MCF
+358,2007-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.5,$/MCF
+359,2007-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),69221,MMCF
+360,2007-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),396945,MMCF
+361,2007-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),101495,MMCF
+362,2007-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),7.36,$/MCF
+363,2007-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),7.51,$/MCF
+364,2007-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),7.21,$/MCF
+365,2007-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),340607,MMCF
+366,2007-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),7.05,$/MCF
+367,2007-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),86458,MMCF
+368,2007-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.35,$/MCF
+369,2007-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),347224,MMCF
+370,2007-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),63576,MMCF
+371,2007-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.61,$/MCF
+372,2007-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.49,$/MCF
+373,2007-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),65077,MMCF
+374,2007-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.83,$/MCF
+375,2007-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),361383,MMCF
+376,2007-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),61870,MMCF
+377,2007-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6,$/MCF
+378,2007-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.1,$/MCF
+379,2007-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),426534,MMCF
+380,2007-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),418576,MMCF
+381,2007-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),70660,MMCF
+382,2007-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.47,$/MCF
+383,2007-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.56,$/MCF
+384,2008-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),11.71,$/MCF
+385,2008-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),286919,MMCF
+386,2008-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),61702,MMCF
+387,2008-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),11.58,$/MCF
+388,2008-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),10.93,$/MCF
+389,2008-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),297154,MMCF
+390,2008-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),10.8,$/MCF
+391,2008-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),68981,MMCF
+392,2008-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),322122,MMCF
+393,2008-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),9.61,$/MCF
+394,2008-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),74343,MMCF
+395,2008-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),9.94,$/MCF
+396,2008-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),9.33,$/MCF
+397,2008-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),100351,MMCF
+398,2008-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),366810,MMCF
+399,2008-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),9.03,$/MCF
+400,2008-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),99374,MMCF
+401,2008-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),8.34,$/MCF
+402,2008-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),349660,MMCF
+403,2008-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),8.36,$/MCF
+404,2008-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),7.66,$/MCF
+405,2008-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),109302,MMCF
+406,2008-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),7.7,$/MCF
+407,2008-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),389651,MMCF
+408,2008-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),106101,MMCF
+409,2008-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.74,$/MCF
+410,2008-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.59,$/MCF
+411,2008-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),364862,MMCF
+412,2008-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),320254,MMCF
+413,2008-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),90432,MMCF
+414,2008-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.54,$/MCF
+415,2008-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.28,$/MCF
+416,2008-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.87,$/MCF
+417,2008-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.54,$/MCF
+418,2008-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),321328,MMCF
+419,2008-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),66843,MMCF
+420,2008-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),55330,MMCF
+421,2008-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),313868,MMCF
+422,2008-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),7.45,$/MCF
+423,2008-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),7.54,$/MCF
+424,2008-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),8.69,$/MCF
+425,2008-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),328663,MMCF
+426,2008-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),8.67,$/MCF
+427,2008-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),67157,MMCF
+428,2008-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),63345,MMCF
+429,2008-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),322810,MMCF
+430,2008-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),11.9,$/MCF
+431,2008-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),11.78,$/MCF
+432,2009-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.9,$/MCF
+433,2009-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.51,$/MCF
+434,2009-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),281970,MMCF
+435,2009-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),66259,MMCF
+436,2009-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.85,$/MCF
+437,2009-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.48,$/MCF
+438,2009-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),265793,MMCF
+439,2009-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),77072,MMCF
+440,2009-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.88,$/MCF
+441,2009-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.67,$/MCF
+442,2009-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),321848,MMCF
+443,2009-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),80016,MMCF
+444,2009-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.29,$/MCF
+445,2009-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),103699,MMCF
+446,2009-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),325165,MMCF
+447,2009-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.34,$/MCF
+448,2009-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.92,$/MCF
+449,2009-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),103196,MMCF
+450,2009-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.21,$/MCF
+451,2009-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),321522,MMCF
+452,2009-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),356749,MMCF
+453,2009-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.18,$/MCF
+454,2009-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.98,$/MCF
+455,2009-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),112989,MMCF
+456,2009-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),115328,MMCF
+457,2009-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),349682,MMCF
+458,2009-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.23,$/MCF
+459,2009-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.63,$/MCF
+460,2009-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),294918,MMCF
+461,2009-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.53,$/MCF
+462,2009-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),96892,MMCF
+463,2009-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.4,$/MCF
+464,2009-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),78092,MMCF
+465,2009-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.92,$/MCF
+466,2009-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.29,$/MCF
+467,2009-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),273124,MMCF
+468,2009-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),307026,MMCF
+469,2009-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.91,$/MCF
+470,2009-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),83786,MMCF
+471,2009-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.43,$/MCF
+472,2009-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),336848,MMCF
+473,2009-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),78755,MMCF
+474,2009-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.58,$/MCF
+475,2009-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.29,$/MCF
+476,2009-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),76273,MMCF
+477,2009-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.97,$/MCF
+478,2009-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.5,$/MCF
+479,2009-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),316715,MMCF
+480,2010-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.23,$/MCF
+481,2010-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.98,$/MCF
+482,2010-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),282260,MMCF
+483,2010-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),90040,MMCF
+484,2010-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.13,$/MCF
+485,2010-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.68,$/MCF
+486,2010-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),85725,MMCF
+487,2010-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),297801,MMCF
+488,2010-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.13,$/MCF
+489,2010-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.76,$/MCF
+490,2010-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),298464,MMCF
+491,2010-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),75938,MMCF
+492,2010-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),318769,MMCF
+493,2010-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.87,$/MCF
+494,2010-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.1,$/MCF
+495,2010-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),99574,MMCF
+496,2010-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),324124,MMCF
+497,2010-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.87,$/MCF
+498,2010-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.62,$/MCF
+499,2010-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),87820,MMCF
+500,2010-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.35,$/MCF
+501,2010-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.95,$/MCF
+502,2010-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),384586,MMCF
+503,2010-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),93570,MMCF
+504,2010-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.56,$/MCF
+505,2010-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.01,$/MCF
+506,2010-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),351773,MMCF
+507,2010-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),135121,MMCF
+508,2010-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.96,$/MCF
+509,2010-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),273165,MMCF
+510,2010-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),123537,MMCF
+511,2010-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.42,$/MCF
+512,2010-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),294744,MMCF
+513,2010-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),95974,MMCF
+514,2010-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.83,$/MCF
+515,2010-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.41,$/MCF
+516,2010-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.76,$/MCF
+517,2010-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),281518,MMCF
+518,2010-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),79475,MMCF
+519,2010-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.64,$/MCF
+520,2010-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.13,$/MCF
+521,2010-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),304901,MMCF
+522,2010-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),84164,MMCF
+523,2010-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.89,$/MCF
+524,2010-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.25,$/MCF
+525,2010-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),328655,MMCF
+526,2010-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),85851,MMCF
+527,2010-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.4,$/MCF
+528,2011-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),266617,MMCF
+529,2011-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.6,$/MCF
+530,2011-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),119470,MMCF
+531,2011-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.83,$/MCF
+532,2011-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),131797,MMCF
+533,2011-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),271252,MMCF
+534,2011-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.31,$/MCF
+535,2011-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.88,$/MCF
+536,2011-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.35,$/MCF
+537,2011-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.78,$/MCF
+538,2011-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),126374,MMCF
+539,2011-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),277936,MMCF
+540,2011-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.24,$/MCF
+541,2011-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),144360,MMCF
+542,2011-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.52,$/MCF
+543,2011-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),315408,MMCF
+544,2011-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.79,$/MCF
+545,2011-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),311154,MMCF
+546,2011-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),125014,MMCF
+547,2011-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.49,$/MCF
+548,2011-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),371919,MMCF
+549,2011-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),135721,MMCF
+550,2011-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.11,$/MCF
+551,2011-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.66,$/MCF
+552,2011-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.66,$/MCF
+553,2011-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),134374,MMCF
+554,2011-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),297733,MMCF
+555,2011-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.08,$/MCF
+556,2011-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),248908,MMCF
+557,2011-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.58,$/MCF
+558,2011-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.24,$/MCF
+559,2011-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),127599,MMCF
+560,2011-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),282159,MMCF
+561,2011-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.06,$/MCF
+562,2011-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.14,$/MCF
+563,2011-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),109513,MMCF
+564,2011-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),126744,MMCF
+565,2011-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),251846,MMCF
+566,2011-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.92,$/MCF
+567,2011-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.87,$/MCF
+568,2011-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.63,$/MCF
+569,2011-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),280284,MMCF
+570,2011-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),111404,MMCF
+571,2011-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.4,$/MCF
+572,2011-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.82,$/MCF
+573,2011-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.39,$/MCF
+574,2011-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),113280,MMCF
+575,2011-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),293477,MMCF
+576,2012-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),125140,MMCF
+577,2012-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.35,$/MCF
+578,2012-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.93,$/MCF
+579,2012-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),259732,MMCF
+580,2012-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),259023,MMCF
+581,2012-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.29,$/MCF
+582,2012-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.79,$/MCF
+583,2012-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),132979,MMCF
+584,2012-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.04,$/MCF
+585,2012-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),123150,MMCF
+586,2012-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.28,$/MCF
+587,2012-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),243018,MMCF
+588,2012-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.36,$/MCF
+589,2012-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.74,$/MCF
+590,2012-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),265152,MMCF
+591,2012-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),141164,MMCF
+592,2012-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),269906,MMCF
+593,2012-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.86,$/MCF
+594,2012-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),130175,MMCF
+595,2012-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.06,$/MCF
+596,2012-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),130464,MMCF
+597,2012-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.66,$/MCF
+598,2012-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.27,$/MCF
+599,2012-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),281131,MMCF
+600,2012-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.93,$/MCF
+601,2012-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),252066,MMCF
+602,2012-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.15,$/MCF
+603,2012-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),158538,MMCF
+604,2012-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.03,$/MCF
+605,2012-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.96,$/MCF
+606,2012-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),142299,MMCF
+607,2012-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),233853,MMCF
+608,2012-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.16,$/MCF
+609,2012-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),139930,MMCF
+610,2012-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),253402,MMCF
+611,2012-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.71,$/MCF
+612,2012-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),257990,MMCF
+613,2012-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.67,$/MCF
+614,2012-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),137374,MMCF
+615,2012-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3,$/MCF
+616,2012-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),281350,MMCF
+617,2012-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),139248,MMCF
+618,2012-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.83,$/MCF
+619,2012-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.35,$/MCF
+620,2012-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),118367,MMCF
+621,2012-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.05,$/MCF
+622,2012-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),281166,MMCF
+623,2012-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.78,$/MCF
+624,2013-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.22,$/MCF
+625,2013-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),236690,MMCF
+626,2013-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),133808,MMCF
+627,2013-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.9,$/MCF
+628,2013-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),234183,MMCF
+629,2013-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),142071,MMCF
+630,2013-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.94,$/MCF
+631,2013-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.38,$/MCF
+632,2013-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.98,$/MCF
+633,2013-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),220608,MMCF
+634,2013-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),125771,MMCF
+635,2013-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.43,$/MCF
+636,2013-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),248290,MMCF
+637,2013-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.84,$/MCF
+638,2013-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.05,$/MCF
+639,2013-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),148544,MMCF
+640,2013-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.99,$/MCF
+641,2013-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.84,$/MCF
+642,2013-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),236875,MMCF
+643,2013-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),133003,MMCF
+644,2013-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.14,$/MCF
+645,2013-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.9,$/MCF
+646,2013-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),154442,MMCF
+647,2013-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),278078,MMCF
+648,2013-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.56,$/MCF
+649,2013-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),273181,MMCF
+650,2013-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),117329,MMCF
+651,2013-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.75,$/MCF
+652,2013-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),218693,MMCF
+653,2013-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),113682,MMCF
+654,2013-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.15,$/MCF
+655,2013-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.77,$/MCF
+656,2013-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),122406,MMCF
+657,2013-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.88,$/MCF
+658,2013-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.4,$/MCF
+659,2013-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),220430,MMCF
+660,2013-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),122421,MMCF
+661,2013-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.49,$/MCF
+662,2013-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.88,$/MCF
+663,2013-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),243881,MMCF
+664,2013-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),236248,MMCF
+665,2013-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),130324,MMCF
+666,2013-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.17,$/MCF
+667,2013-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.75,$/MCF
+668,2013-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.41,$/MCF
+669,2013-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),236199,MMCF
+670,2013-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),128612,MMCF
+671,2013-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.94,$/MCF
+672,2014-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.81,$/MCF
+673,2014-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),201655,MMCF
+674,2014-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.32,$/MCF
+675,2014-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),119864,MMCF
+676,2014-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),114105,MMCF
+677,2014-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.6,$/MCF
+678,2014-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.01,$/MCF
+679,2014-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),206657,MMCF
+680,2014-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),121928,MMCF
+681,2014-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.11,$/MCF
+682,2014-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),200669,MMCF
+683,2014-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.93,$/MCF
+684,2014-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),234189,MMCF
+685,2014-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),8.12,$/MCF
+686,2014-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),8.2,$/MCF
+687,2014-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),149508,MMCF
+688,2014-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),245422,MMCF
+689,2014-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),9.56,$/MCF
+690,2014-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),9.11,$/MCF
+691,2014-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),138550,MMCF
+692,2014-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),7.15,$/MCF
+693,2014-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.82,$/MCF
+694,2014-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),295356,MMCF
+695,2014-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),134807,MMCF
+696,2014-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.25,$/MCF
+697,2014-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),136982,MMCF
+698,2014-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.44,$/MCF
+699,2014-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),253736,MMCF
+700,2014-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.97,$/MCF
+701,2014-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),227485,MMCF
+702,2014-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.44,$/MCF
+703,2014-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),120861,MMCF
+704,2014-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),115069,MMCF
+705,2014-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.87,$/MCF
+706,2014-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.37,$/MCF
+707,2014-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),220858,MMCF
+708,2014-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),201622,MMCF
+709,2014-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),119891,MMCF
+710,2014-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.24,$/MCF
+711,2014-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.41,$/MCF
+712,2014-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.38,$/MCF
+713,2014-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),206554,MMCF
+714,2014-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),115376,MMCF
+715,2014-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.87,$/MCF
+716,2014-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),127301,MMCF
+717,2014-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.74,$/MCF
+718,2014-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),201176,MMCF
+719,2014-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.77,$/MCF
+720,2015-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),138179,MMCF
+721,2015-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.56,$/MCF
+722,2015-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),206273,MMCF
+723,2015-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.01,$/MCF
+724,2015-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),204348,MMCF
+725,2015-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.95,$/MCF
+726,2015-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.52,$/MCF
+727,2015-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),134274,MMCF
+728,2015-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),130328,MMCF
+729,2015-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),205120,MMCF
+730,2015-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.59,$/MCF
+731,2015-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.83,$/MCF
+732,2015-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),163967,MMCF
+733,2015-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),257274,MMCF
+734,2015-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.41,$/MCF
+735,2015-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.9,$/MCF
+736,2015-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),254230,MMCF
+737,2015-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),144955,MMCF
+738,2015-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.98,$/MCF
+739,2015-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.46,$/MCF
+740,2015-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),144522,MMCF
+741,2015-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.78,$/MCF
+742,2015-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.75,$/MCF
+743,2015-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),279397,MMCF
+744,2015-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.57,$/MCF
+745,2015-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.28,$/MCF
+746,2015-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),161754,MMCF
+747,2015-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),227257,MMCF
+748,2015-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.4,$/MCF
+749,2015-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.63,$/MCF
+750,2015-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),218242,MMCF
+751,2015-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),155739,MMCF
+752,2015-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.73,$/MCF
+753,2015-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),226286,MMCF
+754,2015-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.23,$/MCF
+755,2015-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),158517,MMCF
+756,2015-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),208818,MMCF
+757,2015-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.75,$/MCF
+758,2015-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.92,$/MCF
+759,2015-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),162573,MMCF
+760,2015-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.74,$/MCF
+761,2015-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.09,$/MCF
+762,2015-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),144885,MMCF
+763,2015-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),213875,MMCF
+764,2015-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),216973,MMCF
+765,2015-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),143820,MMCF
+766,2015-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.06,$/MCF
+767,2015-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.66,$/MCF
+768,2016-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.9,$/MCF
+769,2016-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),241885,MMCF
+770,2016-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.6,$/MCF
+771,2016-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),183013,MMCF
+772,2016-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),248317,MMCF
+773,2016-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.55,$/MCF
+774,2016-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),188274,MMCF
+775,2016-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.15,$/MCF
+776,2016-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.15,$/MCF
+777,2016-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),177853,MMCF
+778,2016-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),241317,MMCF
+779,2016-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.61,$/MCF
+780,2016-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.73,$/MCF
+781,2016-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.04,$/MCF
+782,2016-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),194915,MMCF
+783,2016-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),240764,MMCF
+784,2016-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),251775,MMCF
+785,2016-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.43,$/MCF
+786,2016-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),162757,MMCF
+787,2016-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.28,$/MCF
+788,2016-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.54,$/MCF
+789,2016-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.8,$/MCF
+790,2016-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),168521,MMCF
+791,2016-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),273600,MMCF
+792,2016-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),250836,MMCF
+793,2016-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.82,$/MCF
+794,2016-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.5,$/MCF
+795,2016-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),280791,MMCF
+796,2016-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),231044,MMCF
+797,2016-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3,$/MCF
+798,2016-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.7,$/MCF
+799,2016-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),227919,MMCF
+800,2016-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.59,$/MCF
+801,2016-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.06,$/MCF
+802,2016-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),231449,MMCF
+803,2016-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),176466,MMCF
+804,2016-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.47,$/MCF
+805,2016-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),238491,MMCF
+806,2016-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),201986,MMCF
+807,2016-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.16,$/MCF
+808,2016-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),214226,MMCF
+809,2016-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.42,$/MCF
+810,2016-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.13,$/MCF
+811,2016-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),261983,MMCF
+812,2016-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),188682,MMCF
+813,2016-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.35,$/MCF
+814,2016-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.02,$/MCF
+815,2016-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),265022,MMCF
+816,2017-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.62,$/MCF
+817,2017-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),253322,MMCF
+818,2017-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.41,$/MCF
+819,2017-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),239805,MMCF
+820,2017-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),248867,MMCF
+821,2017-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.7,$/MCF
+822,2017-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.57,$/MCF
+823,2017-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),244353,MMCF
+824,2017-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),238279,MMCF
+825,2017-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.64,$/MCF
+826,2017-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),242424,MMCF
+827,2017-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.65,$/MCF
+828,2017-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),273345,MMCF
+829,2017-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.21,$/MCF
+830,2017-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.68,$/MCF
+831,2017-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),280567,MMCF
+832,2017-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),254597,MMCF
+833,2017-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),253227,MMCF
+834,2017-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.8,$/MCF
+835,2017-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.14,$/MCF
+836,2017-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),269960,MMCF
+837,2017-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.74,$/MCF
+838,2017-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),291656,MMCF
+839,2017-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.26,$/MCF
+840,2017-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),274478,MMCF
+841,2017-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.27,$/MCF
+842,2017-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),300138,MMCF
+843,2017-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.68,$/MCF
+844,2017-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),240314,MMCF
+845,2017-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.53,$/MCF
+846,2017-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),287727,MMCF
+847,2017-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.54,$/MCF
+848,2017-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),279775,MMCF
+849,2017-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),241338,MMCF
+850,2017-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.06,$/MCF
+851,2017-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.37,$/MCF
+852,2017-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.12,$/MCF
+853,2017-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),229444,MMCF
+854,2017-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),248916,MMCF
+855,2017-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.3,$/MCF
+856,2017-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),247888,MMCF
+857,2017-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),247302,MMCF
+858,2017-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.27,$/MCF
+859,2017-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.38,$/MCF
+860,2017-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.4,$/MCF
+861,2017-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),248801,MMCF
+862,2017-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.37,$/MCF
+863,2017-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),250508,MMCF
+864,2018-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),261995,MMCF
+865,2018-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.87,$/MCF
+866,2018-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),228469,MMCF
+867,2018-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.43,$/MCF
+868,2018-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),227168,MMCF
+869,2018-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.7,$/MCF
+870,2018-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),272116,MMCF
+871,2018-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.73,$/MCF
+872,2018-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.2,$/MCF
+873,2018-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),278941,MMCF
+874,2018-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.46,$/MCF
+875,2018-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),242264,MMCF
+876,2018-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),291468,MMCF
+877,2018-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.45,$/MCF
+878,2018-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.37,$/MCF
+879,2018-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),270762,MMCF
+880,2018-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),237417,MMCF
+881,2018-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.93,$/MCF
+882,2018-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),275652,MMCF
+883,2018-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.02,$/MCF
+884,2018-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),299891,MMCF
+885,2018-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.97,$/MCF
+886,2018-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.41,$/MCF
+887,2018-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),300234,MMCF
+888,2018-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),363806,MMCF
+889,2018-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.89,$/MCF
+890,2018-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.22,$/MCF
+891,2018-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),257148,MMCF
+892,2018-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),337789,MMCF
+893,2018-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),212486,MMCF
+894,2018-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.1,$/MCF
+895,2018-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.46,$/MCF
+896,2018-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.61,$/MCF
+897,2018-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.76,$/MCF
+898,2018-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),306653,MMCF
+899,2018-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),215128,MMCF
+900,2018-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),301742,MMCF
+901,2018-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.09,$/MCF
+902,2018-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),214074,MMCF
+903,2018-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.47,$/MCF
+904,2018-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),311449,MMCF
+905,2018-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.78,$/MCF
+906,2018-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),237025,MMCF
+907,2018-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.22,$/MCF
+908,2018-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),305997,MMCF
+909,2018-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),247012,MMCF
+910,2018-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.72,$/MCF
+911,2018-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.16,$/MCF
+912,2019-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),201163,MMCF
+913,2019-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),360226,MMCF
+914,2019-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.18,$/MCF
+915,2019-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.54,$/MCF
+916,2019-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),368568,MMCF
+917,2019-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.81,$/MCF
+918,2019-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.51,$/MCF
+919,2019-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),207651,MMCF
+920,2019-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.32,$/MCF
+921,2019-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),206559,MMCF
+922,2019-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.14,$/MCF
+923,2019-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),338213,MMCF
+924,2019-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.79,$/MCF
+925,2019-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.68,$/MCF
+926,2019-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),373539,MMCF
+927,2019-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),252989,MMCF
+928,2019-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),329954,MMCF
+929,2019-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.06,$/MCF
+930,2019-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.76,$/MCF
+931,2019-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),233344,MMCF
+932,2019-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.39,$/MCF
+933,2019-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.3,$/MCF
+934,2019-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),364787,MMCF
+935,2019-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),290886,MMCF
+936,2019-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),256053,MMCF
+937,2019-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),481757,MMCF
+938,2019-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.23,$/MCF
+939,2019-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.89,$/MCF
+940,2019-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.8,$/MCF
+941,2019-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),441944,MMCF
+942,2019-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),223765,MMCF
+943,2019-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.03,$/MCF
+944,2019-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),210537,MMCF
+945,2019-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.15,$/MCF
+946,2019-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),425775,MMCF
+947,2019-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.55,$/MCF
+948,2019-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.56,$/MCF
+949,2019-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),394511,MMCF
+950,2019-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.65,$/MCF
+951,2019-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),208286,MMCF
+952,2019-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.73,$/MCF
+953,2019-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.23,$/MCF
+954,2019-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),220076,MMCF
+955,2019-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),384983,MMCF
+956,2019-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.86,$/MCF
+957,2019-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),230407,MMCF
+958,2019-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.47,$/MCF
+959,2019-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),393400,MMCF
+960,2020-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),338486,MMCF
+961,2020-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.54,$/MCF
+962,2020-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.99,$/MCF
+963,2020-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),187478,MMCF
+964,2020-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),395472,MMCF
+965,2020-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.61,$/MCF
+966,2020-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.63,$/MCF
+967,2020-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),186518,MMCF
+968,2020-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),420767,MMCF
+969,2020-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.21,$/MCF
+970,2020-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),190049,MMCF
+971,2020-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.5,$/MCF
+972,2020-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),497437,MMCF
+973,2020-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.68,$/MCF
+974,2020-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),213231,MMCF
+975,2020-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.3,$/MCF
+976,2020-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),454245,MMCF
+977,2020-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.04,$/MCF
+978,2020-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.51,$/MCF
+979,2020-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),238328,MMCF
+980,2020-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),510444,MMCF
+981,2020-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),262080,MMCF
+982,2020-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.74,$/MCF
+983,2020-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.64,$/MCF
+984,2020-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),553176,MMCF
+985,2020-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.8,$/MCF
+986,2020-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.84,$/MCF
+987,2020-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),266618,MMCF
+988,2020-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.77,$/MCF
+989,2020-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.71,$/MCF
+990,2020-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),211570,MMCF
+991,2020-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),528210,MMCF
+992,2020-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),199306,MMCF
+993,2020-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.19,$/MCF
+994,2020-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),481621,MMCF
+995,2020-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.85,$/MCF
+996,2020-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),395424,MMCF
+997,2020-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.02,$/MCF
+998,2020-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.49,$/MCF
+999,2020-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),174225,MMCF
+1000,2020-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.28,$/MCF
+1001,2020-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),360230,MMCF
+1002,2020-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.89,$/MCF
+1003,2020-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),211352,MMCF
+1004,2020-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),349167,MMCF
+1005,2020-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.65,$/MCF
+1006,2020-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),210419,MMCF
+1007,2020-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),2.9,$/MCF
+1008,2021-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),539165,MMCF
+1009,2021-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.83,$/MCF
+1010,2021-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.92,$/MCF
+1011,2021-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),207859,MMCF
+1012,2021-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.89,$/MCF
+1013,2021-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),578056,MMCF
+1014,2021-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),204890,MMCF
+1015,2021-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.7,$/MCF
+1016,2021-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),208369,MMCF
+1017,2021-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),564333,MMCF
+1018,2021-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.46,$/MCF
+1019,2021-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.44,$/MCF
+1020,2021-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.71,$/MCF
+1021,2021-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.66,$/MCF
+1022,2021-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),238724,MMCF
+1023,2021-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),595411,MMCF
+1024,2021-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.63,$/MCF
+1025,2021-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),12.68,$/MCF
+1026,2021-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),271877,MMCF
+1027,2021-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),424004,MMCF
+1028,2021-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.62,$/MCF
+1029,2021-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),563515,MMCF
+1030,2021-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),284065,MMCF
+1031,2021-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.86,$/MCF
+1032,2021-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),620886,MMCF
+1033,2021-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.74,$/MCF
+1034,2021-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),252626,MMCF
+1035,2021-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),7.4,$/MCF
+1036,2021-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),242405,MMCF
+1037,2021-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.18,$/MCF
+1038,2021-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),8.1,$/MCF
+1039,2021-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),556982,MMCF
+1040,2021-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),228203,MMCF
+1041,2021-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.79,$/MCF
+1042,2021-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),7.97,$/MCF
+1043,2021-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),545055,MMCF
+1044,2021-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),220206,MMCF
+1045,2021-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),535583,MMCF
+1046,2021-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.07,$/MCF
+1047,2021-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.7,$/MCF
+1048,2021-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.52,$/MCF
+1049,2021-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.06,$/MCF
+1050,2021-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),220959,MMCF
+1051,2021-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),563572,MMCF
+1052,2021-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),227779,MMCF
+1053,2021-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),566046,MMCF
+1054,2021-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.64,$/MCF
+1055,2021-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.41,$/MCF
+1056,2022-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),7.03,$/MCF
+1057,2022-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),553760,MMCF
+1058,2022-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),11.44,$/MCF
+1059,2022-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),228882,MMCF
+1060,2022-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.72,$/MCF
+1061,2022-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),10.31,$/MCF
+1062,2022-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),230899,MMCF
+1063,2022-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),616665,MMCF
+1064,2022-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),244998,MMCF
+1065,2022-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),8.45,$/MCF
+1066,2022-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.49,$/MCF
+1067,2022-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),587385,MMCF
+1068,2022-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),7.24,$/MCF
+1069,2022-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),259499,MMCF
+1070,2022-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.7,$/MCF
+1071,2022-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),639074,MMCF
+1072,2022-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),257977,MMCF
+1073,2022-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),8.22,$/MCF
+1074,2022-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.67,$/MCF
+1075,2022-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),546428,MMCF
+1076,2022-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),610836,MMCF
+1077,2022-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.94,$/MCF
+1078,2022-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),296248,MMCF
+1079,2022-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),7.04,$/MCF
+1080,2022-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),598601,MMCF
+1081,2022-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),9.75,$/MCF
+1082,2022-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),9.91,$/MCF
+1083,2022-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),292940,MMCF
+1084,2022-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),555018,MMCF
+1085,2022-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),246184,MMCF
+1086,2022-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.8,$/MCF
+1087,2022-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),8.62,$/MCF
+1088,2022-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),239507,MMCF
+1089,2022-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),10.22,$/MCF
+1090,2022-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),554328,MMCF
+1091,2022-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.67,$/MCF
+1092,2022-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6,$/MCF
+1093,2022-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),233927,MMCF
+1094,2022-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),12.79,$/MCF
+1095,2022-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),526465,MMCF
+1096,2022-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),12.22,$/MCF
+1097,2022-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),235884,MMCF
+1098,2022-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),558031,MMCF
+1099,2022-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6.62,$/MCF
+1100,2022-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),559842,MMCF
+1101,2022-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),257197,MMCF
+1102,2022-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),6,$/MCF
+1103,2022-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),9.99,$/MCF
+1104,2023-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),231555,MMCF
+1105,2023-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.99,$/MCF
+1106,2023-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.02,$/MCF
+1107,2023-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),607307,MMCF
+1108,2023-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.05,$/MCF
+1109,2023-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),638382,MMCF
+1110,2023-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),216145,MMCF
+1111,2023-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.01,$/MCF
+1112,2023-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),620697,MMCF
+1113,2023-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.5,$/MCF
+1114,2023-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.91,$/MCF
+1115,2023-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),220387,MMCF
+1116,2023-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.28,$/MCF
+1117,2023-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),650384,MMCF
+1118,2023-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),249519,MMCF
+1119,2023-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.55,$/MCF
+1120,2023-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),6.57,$/MCF
+1121,2023-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),5.17,$/MCF
+1122,2023-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),243931,MMCF
+1123,2023-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),574773,MMCF
+1124,2023-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),608605,MMCF
+1125,2023-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),8.03,$/MCF
+1126,2023-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),8.49,$/MCF
+1127,2023-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),275230,MMCF
+1128,2023-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.14,$/MCF
+1129,2023-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),276860,MMCF
+1130,2023-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),708805,MMCF
+1131,2023-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.8,$/MCF
+1132,2023-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.49,$/MCF
+1133,2023-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),251042,MMCF
+1134,2023-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),654230,MMCF
+1135,2023-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.03,$/MCF
+1136,2023-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),230969,MMCF
+1137,2023-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),651805,MMCF
+1138,2023-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.18,$/MCF
+1139,2023-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.36,$/MCF
+1140,2023-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.28,$/MCF
+1141,2023-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),230008,MMCF
+1142,2023-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.72,$/MCF
+1143,2023-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),625625,MMCF
+1144,2023-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.7,$/MCF
+1145,2023-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.52,$/MCF
+1146,2023-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),634499,MMCF
+1147,2023-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),246435,MMCF
+1148,2023-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),634485,MMCF
+1149,2023-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),256093,MMCF
+1150,2023-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.79,$/MCF
+1151,2023-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.44,$/MCF
+1152,2024-06,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),246747,MMCF
+1153,2024-06,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.45,$/MCF
+1154,2024-06,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),626772,MMCF
+1155,2024-06,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.58,$/MCF
+1156,2024-05,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.33,$/MCF
+1157,2024-05,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.84,$/MCF
+1158,2024-05,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),646403,MMCF
+1159,2024-05,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),238470,MMCF
+1160,2024-04,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),221912,MMCF
+1161,2024-04,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.36,$/MCF
+1162,2024-04,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.46,$/MCF
+1163,2024-04,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),567223,MMCF
+1164,2024-03,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.83,$/MCF
+1165,2024-03,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),243413,MMCF
+1166,2024-03,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.72,$/MCF
+1167,2024-03,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),667989,MMCF
+1168,2024-02,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),2.44,$/MCF
+1169,2024-02,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.64,$/MCF
+1170,2024-02,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),258290,MMCF
+1171,2024-02,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),643532,MMCF
+1172,2024-01,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),4.6,$/MCF
+1173,2024-01,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.44,$/MCF
+1174,2024-01,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),673998,MMCF
+1175,2024-01,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),322997,MMCF
+1176,2024-12,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),309413,MMCF
+1177,2024-12,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),3.13,$/MCF
+1178,2024-12,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),5.9,$/MCF
+1179,2024-12,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),697527,MMCF
+1180,2024-11,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),639807,MMCF
+1181,2024-11,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.72,$/MCF
+1182,2024-11,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),270439,MMCF
+1183,2024-11,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.92,$/MCF
+1184,2024-10,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),253967,MMCF
+1185,2024-10,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.78,$/MCF
+1186,2024-10,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.6,$/MCF
+1187,2024-10,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),648848,MMCF
+1188,2024-09,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),638310,MMCF
+1189,2024-09,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.16,$/MCF
+1190,2024-09,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),246564,MMCF
+1191,2024-09,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.35,$/MCF
+1192,2024-08,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),260891,MMCF
+1193,2024-08,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),3.78,$/MCF
+1194,2024-08,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),650277,MMCF
+1195,2024-08,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.29,$/MCF
+1196,2024-07,NUS-Z00,U.S.,EPG0,Natural Gas,EEX,Exports,N9130US2,U.S. Natural Gas Exports (MMcf),608126,MMCF
+1197,2024-07,NUS-Z00,U.S.,EPG0,Natural Gas,IM0,Imports,N9100US2,U.S. Natural Gas Imports (MMcf),271444,MMCF
+1198,2024-07,NUS-Z00,U.S.,EPG0,Natural Gas,PEX,Exports (Price),N9130US3,Price of U.S. Natural Gas Exports (Dollars per Thousand Cubic Feet),4.36,$/MCF
+1199,2024-07,NUS-Z00,U.S.,EPG0,Natural Gas,PM0,Imports Price,N9100US3,Price of U.S. Natural Gas Imports (Dollars per Thousand Cubic Feet),1.47,$/MCF
